@@ -27,8 +27,10 @@ A simple REST API built with Laravel that returns basic information including a 
     "current_datetime": "example-current-datetime",
     "github_url": "https://github.com/Noah-V/HNG-Backend-API"
 }
+```
 
-### Local Development Setup
+
+## Local Development Setup
 
 1. **Clone the repository**
 git clone "https://github.com/Noah-V/HNG_API.git"
