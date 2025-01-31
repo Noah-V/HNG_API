@@ -62,3 +62,8 @@ php artisan serve
 ```
 
 The API will now be available at `http://example-localhost`
+
+## Chosen Programming Language Stack
+
+- Laravel PHP Framework
+- Backlink: https://hng.tech/hire/php-developers
