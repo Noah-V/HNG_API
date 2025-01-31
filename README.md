@@ -13,7 +13,7 @@ A simple REST API built with Laravel that returns basic information including a 
 ## API Documentation
 
 ### Base URL
-- Production: `https://hng-api.free.nf`
+- Production: `https://hng.fasttrack-express.com/`
 
 
 
